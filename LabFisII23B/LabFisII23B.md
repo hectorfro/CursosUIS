@@ -17,7 +17,7 @@ La evaluación del laboratorio (100%) estará ponderada de la siguiente manera:
 - Una buena herramienta para aprender a escribi ecuaciones en LaTex la encuentran en:
   https://latex.codecogs.com/eqneditor/editor.php?lang=es-es
 - Pueden consultar mi manual:
-  https://github.com/hectorfro/CursosUIS/blob/main/LabFisII23B/LabFis20.pdf
+  https://github.com/hectorfro/CursosUIS/blob/main/LabFisII23B/LabFis25_m.pdf
 - Una buena referencia sobre el Python y el laboratorio la pueden encontrar en: 
    https://marceluda.github.io/python-para-fisicos/tuto/labo2/
 - Es altamente recomendable que utilicen el Colab de Google para hacer los Nootebook
