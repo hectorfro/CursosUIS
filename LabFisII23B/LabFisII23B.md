@@ -1,4 +1,4 @@
-# Laboratorio de Física II 
+# Laboratorio de Física II (2023-2)
 El curso consta de 2 grupos que realizarán las prácticas semana de por medio. 
 
 ## Evaluaciones
@@ -14,7 +14,7 @@ La evaluación del laboratorio (100%) estará ponderada de la siguiente manera:
 - Las gráficas deben hacerce en Python y el Notebook con los datos y cálculos debe ser anexado al informe.
 
 ## Enlaces importantes
-- Una buena herramienta para aprender a escribi ecuaciones en LaTex la encuentran en:
+- Una buena herramienta para aprender a escribir ecuaciones en LaTex la encuentran en:
   https://latex.codecogs.com/eqneditor/editor.php?lang=es-es
 - Pueden consultar mi manual:
   https://github.com/hectorfro/CursosUIS/blob/main/LabFisII23B/LabFis25_m.pdf
@@ -25,9 +25,9 @@ La evaluación del laboratorio (100%) estará ponderada de la siguiente manera:
 - Sobre el Colab de Google pueden consultar, entre muchas otras.
   http://gmc.geofisica.unam.mx/papime2020/Descargables/manuales/manual%20de%20uso%20Google%20Colab.pdf
 
-## Las Prácticas a realizar 
+## Prácticas a realizar 
    Sobre las prácticas deben estar atentos al Moodle, pero las prácticas básicamente son:
-1. Introducción al uso básico del multímetro.
+1. Introducción al uso básico del multímetro. ==> Entrega del informe hasta el **22/9/23**
 2. Estudio de superficies equipotenciales y su relación con el campo eléctrico.
 3. Determinación de la relación entre voltaje y corriente en materiales óhmicos y no-óhmicos.
 4. Estudio del comportamiento de la resistencia, corriente y voltaje en circuitos mixtos.
