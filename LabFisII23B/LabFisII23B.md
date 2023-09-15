@@ -8,7 +8,7 @@ La evaluación del laboratorio (100%) estará ponderada de la siguiente manera:
 * 35% Proyecto final
 
 ## Sobre los datos y la entrega del informe
-* La realización del informe es por grupo pero cada estudiante debe subirlo al Moodel.
+* La realización del informe es por grupo pero cada estudiante debe subirlo al Moodle.
 * El informe debe escribirse en LaTex y utilizaremos el overlieaf para escribir el informe. Utilicen el siguiente modelo: https://www.overleaf.com/project/64e6ae4ebe694c5f63ed75b7
 * Las gráficas deben hacerce en Python y el **Notebook con los datos y cálculos debe ser anexado al informe**.
 
