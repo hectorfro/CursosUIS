@@ -1,5 +1,4 @@
 ---
-bibliography: ["biblios.bib"]
-biblio-style: "apalike"
+bibliography: "biblios.bib"
 link-citations: true
 ---
