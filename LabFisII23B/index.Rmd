@@ -1,1 +1,5 @@
-
+---
+bibliography: ["biblios.bib"]
+biblio-style: "apalike"
+link-citations: true
+---
