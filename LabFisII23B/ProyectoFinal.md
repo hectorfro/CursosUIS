@@ -1,8 +1,3 @@
----
-bibliography:
-- 'biblios.bib'
----
-
 
 # Modernización de las prácticas del laboratorio 2 con Pensamiento Computacional
 
@@ -149,4 +144,4 @@ Utiliza herramientas adecuadas. Hay muchas herramientas disponibles para ayudar 
 Prueba y error. No tengas miedo de experimentar. Los estudiantes aprenderán mucho al probar diferentes enfoques para automatizar las prácticas de laboratorio.
 
 
-## Bibliografía
+## References
