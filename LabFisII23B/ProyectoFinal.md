@@ -1,3 +1,9 @@
+---
+bibliography:
+- 'biblios.bib'
+---
+
+
 # Modernización de las prácticas del laboratorio 2 con Pensamiento Computacional
 
 ## Introducción:
@@ -144,4 +150,3 @@ Prueba y error. No tengas miedo de experimentar. Los estudiantes aprenderán muc
 
 
 ## Bibliografía
-\bibliography{biblios}
