@@ -10,7 +10,7 @@ El objetivo de este proyecto final es integrar conceptos de Pensamiento Computac
 
 Cada piedra angular es tan importante como las demás. Son como las patas de una mesa: si falta una, la mesa probablemente se derrumbará. La aplicación correcta de las cuatro técnicas ayudará a la hora de programar una computadora.
 
-Muchos autores están de acuerdo de que existen cuatro prácticas principales del PC, estás son: 
+Muchos autores están de acuerdo de que existen cuatro prácticas principales del PC @{WeintropBeheshtiHorn2020}, estás son: 
 
 1. Prácticas de datos: recopilación, creación, manipulación, análisis y visualización de datos
 2. Prácticas de modelado y simulación: uso de modelos computacionales para comprender un concepto, uso de modelos computacionales para encontrar y probar soluciones; Evaluación, diseño y construcción de modelos computacionales.
@@ -143,4 +143,4 @@ Utiliza herramientas adecuadas. Hay muchas herramientas disponibles para ayudar 
 Prueba y error. No tengas miedo de experimentar. Los estudiantes aprenderán mucho al probar diferentes enfoques para automatizar las prácticas de laboratorio.
 
 
-
+# References
