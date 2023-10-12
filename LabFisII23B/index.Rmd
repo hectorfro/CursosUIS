@@ -1,4 +1,0 @@
----
-bibliography: "biblios.bib"
-link-citations: true
----
