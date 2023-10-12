@@ -9,9 +9,7 @@ El objetivo de este proyecto final es integrar conceptos de Pensamiento Computac
 3. Abstracción: centrarse únicamente en la información importante, ignorando detalles irrelevantes. A
 4. Algoritmos: desarrollar una solución paso a paso al problema, o las reglas a seguir para resolver el problema
 
-Muchos autores están de acuerdo de que existen cuatro prácticas principales del PC  [@Wein]
-
-[Weintrop2020][https://link.springer.com/article/10.1007/s10956-015-9581-5], estás son: 
+Muchos autores están de acuerdo de que existen cuatro prácticas principales del PC, estas son [1]  
 
 1. Prácticas de datos: recopilación, creación, manipulación, análisis y visualización de datos
 2. Prácticas de modelado y simulación: uso de modelos computacionales para comprender un concepto, uso de modelos computacionales para encontrar y probar soluciones; Evaluación, diseño y construcción de modelos computacionales.
@@ -145,3 +143,5 @@ Prueba y error. No tengas miedo de experimentar. Los estudiantes aprenderán muc
 
 
 # References
+
+[1] Weintrop, D., Beheshti, E., Horn, M. et al. Defining Computational Thinking for Mathematics and Science Classrooms. J Sci Educ Technol 25, 127–147 (2016). https://doi.org/10.1007/s10956-015-9581-5
