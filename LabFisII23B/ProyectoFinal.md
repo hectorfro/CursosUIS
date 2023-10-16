@@ -5,7 +5,7 @@
 El objetivo de este proyecto final es integrar conceptos de Pensamiento Computacional (PC) en las prácticas de laboratorio II. Se pretende que el estudiante 
 elabore una propuesta para reformular las prácticas del laboratorio que se tienen actualmente  pero haciendo énfasis en el uso del pensamiento computacional. 
 
-El pensamiento computacional es un conjunto de habilidades que nos permiten formular modelos mentales necesarios para plantear la solución de problemas, usando o no computadoras; además, ayudan a desarrollar la interpretación de representaciones. En otras palabras, el pensamiento computacional es una forma de razonar y de resolver problemas, que se inspira en la manera en que los ordenadores procesan la información. Implica la aplicación de técnicas y estrategias propias de la programación y las ciencias informáticas. [1]
+El pensamiento computacional es un conjunto de habilidades que nos permiten formular modelos mentales necesarios para plantear la solución de problemas, usando o no computadoras; además, ayudan a desarrollar la interpretación de representaciones. En otras palabras, el pensamiento computacional es una forma de razonar y de resolver problemas, que se inspira en la manera en que los ordenadores procesan la información. Implica la aplicación de técnicas y estrategias propias de la programación y las ciencias informáticas. [1, 2]
 
 Las habilidades de pensamiento computacional se pueden dividir en cuatro categorías principales:
 
@@ -22,10 +22,10 @@ Algunos ejemplos de cómo se puede utilizar el pensamiento computacional para re
 - Un ingeniero puede utilizar el PC para diseñar un nuevo producto.
 - Un empresario puede utilizar el PC para crear un nuevo modelo de negocio.
 
-Una persona puede utilizar el PC para encontrar una solución a un problema cotidiano, como organizar sus finanzas o planificar un viaje. El PC es una habilidad que se puede aprender y desarrollar con la práctica. Hay muchos recursos disponibles para ayudar a las personas a aprender sobre el PC, como libros, cursos en línea y talleres. [2]
+Una persona puede utilizar el PC para encontrar una solución a un problema cotidiano, como organizar sus finanzas o planificar un viaje. El PC es una habilidad que se puede aprender y desarrollar con la práctica. Hay muchos recursos disponibles para ayudar a las personas a aprender sobre el PC, como libros, cursos en línea y talleres. [3]
 
    
-Muchos autores están de acuerdo de que existen cuatro prácticas principales del PC, estas son: [3]
+Muchos autores están de acuerdo de que existen cuatro prácticas principales del PC, estas son: [4]
 
 1. Prácticas de datos: recopilación, creación, manipulación, análisis y visualización de datos.
 2. Prácticas de modelado y simulación: uso de modelos computacionales para comprender un concepto, uso de modelos computacionales para encontrar y probar soluciones; Evaluación, diseño y construcción de modelos computacionales..
@@ -125,5 +125,7 @@ Se debe presentar el proyecto final completo con la infografía en la fecha lím
 National Research Council. (2011). Computational thinking in K-12 education: 
 https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf
 
-[3] Weintrop, D., Beheshti, E., Horn, M. et al. Defining Computational Thinking for Mathematics and Science Classrooms. J Sci Educ Technol 25, 127–147 (2016). https://doi.org/10.1007/s10956-015-9581-5
+[3] Cómo incorporar el pensamiento computacional en el aprendizaje basado en proyectos. https://eduteka.icesi.edu.co/articulos/iste-pensamiento-computacional-en-abp
+
+[4] Weintrop, D., Beheshti, E., Horn, M. et al. Defining Computational Thinking for Mathematics and Science Classrooms. J Sci Educ Technol 25, 127–147 (2016). https://doi.org/10.1007/s10956-015-9581-5
 
