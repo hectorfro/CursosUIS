@@ -2,7 +2,7 @@
 
 ## Introducción:
 
-El objetivo de este proyecto final es integrar conceptos de Pensamiento Computacional (PC) en las prácticas de laboratorio II. Se pretende que el estudiante 
+El objetivo de este proyecto final es integrar conceptos de Pensamiento Computacional (PC) en las prácticas de laboratorio de Física II. Se pretende que el estudiante 
 elabore una propuesta para reformular las prácticas del laboratorio que se tienen actualmente  pero haciendo énfasis en el uso del pensamiento computacional. 
 
 El pensamiento computacional es un conjunto de habilidades que nos permiten formular modelos mentales necesarios para plantear la solución de problemas, usando o no computadoras; además, ayudan a desarrollar la interpretación de representaciones. En otras palabras, el pensamiento computacional es una forma de razonar y de resolver problemas, que se inspira en la manera en que los ordenadores procesan la información. Implica la aplicación de técnicas y estrategias propias de la programación y las ciencias informáticas. [1, 2]
@@ -16,7 +16,7 @@ Las habilidades de pensamiento computacional se pueden dividir en cuatro categor
   
 El PC es una habilidad importante para la resolución de problemas en una variedad de campos, como la ciencia, la ingeniería, los negocios y la vida cotidiana.
 
-Algunos ejemplos de cómo se puede utilizar el pensamiento computacional para resolver problemas:
+Algunos ejemplos de cómo se puede utilizar el PC para resolver problemas:
 
 - Un científico puede utilizar el PC para diseñar un experimento para probar una hipótesis.
 - Un ingeniero puede utilizar el PC para diseñar un nuevo producto.
@@ -35,7 +35,7 @@ Muchos autores están de acuerdo de que existen cuatro prácticas principales de
 
 # Proyecto final:  Pensamiento Computacional en las prácticas del Laboratorio de Física II
 
-Los estudiantes deben utilizar el PC para reformular una de las prácticas del laboratorio. Por ejemplo, crear un programa que registre los datos de forma automática, genere las gráficas o realice el análisis de datos, podrian utilizarán Python para adquirir y analizar datos, lo que les permitirá una comprensión más profunda de los conceptos y habilidades computacionales valiosas. También pueden explorar la utilización del teléfono celular para la toma y/o el análisis de los datos. El informe final será elaborado en $\LaTeX$, enfatizando la presentación profesional de los resultados.
+Los estudiantes deben utilizar el PC para reformular una de las prácticas del laboratorio. Por ejemplo, crear un programa que registre los datos de forma automática, genere las gráficas o realice el análisis de datos, podrian utilizarán Python para adquirir y analizar datos, lo que les permitirá una comprensión más profunda de los conceptos y habilidades computacionales valiosas. También pueden explorar la utilización del teléfono celular para el montaje experimental y para la toma y/o el análisis de los datos. El informe final será elaborado en $\LaTeX$, enfatizando la presentación profesional de los resultados.
 
 ## Objetivos:
 - Desarrollar habilidades de PC pensamiento computacional en los estudiantes de física general.
