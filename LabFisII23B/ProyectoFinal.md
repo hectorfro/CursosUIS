@@ -118,11 +118,12 @@ Se debe presentar el proyecto final completo con la infografía en la fecha lím
 
 ## References
 
-[1] Wing, J. M. (2006). Computational thinking. Communications of the ACM, 49(3), 33-35.
+
+[1] Introducción al pensamiento computacional: https://amexcomp.mx/media/publicaciones/intro-pensamiento-computacional-conceptos.pdf
+
+[2] Wing, J. M. (2006). Computational thinking. Communications of the ACM, 49(3), 33-35.
 National Research Council. (2011). Computational thinking in K-12 education: 
 https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf
-
-[2] Introducción al pensamiento computacional: https://amexcomp.mx/media/publicaciones/intro-pensamiento-computacional-conceptos.pdf
 
 [3] Weintrop, D., Beheshti, E., Horn, M. et al. Defining Computational Thinking for Mathematics and Science Classrooms. J Sci Educ Technol 25, 127–147 (2016). https://doi.org/10.1007/s10956-015-9581-5
 
