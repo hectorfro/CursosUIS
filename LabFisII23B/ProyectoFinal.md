@@ -107,6 +107,10 @@ La infografía debe ser un resumen visual del proyecto final y debe incluir los 
 - Descripción de cómo el pensamiento computacional se utilizó para automatizar la práctica de laboratorio
 - Resultados de la práctica de laboratorio reformulada
 
+La infografía será evaluada en base a los siguientes criterios:
+- Claridad
+- Concisión
+- Visualización
 
 ## Fecha de entrega: 
 Se debe presentar el proyecto final completo con la infografía en la fecha límite [2/12/23].
