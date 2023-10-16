@@ -115,8 +115,8 @@ Se debe presentar el proyecto final completo con la infografía en la fecha lím
 ## References
 
 [1] Wing, J. M. (2006). Computational thinking. Communications of the ACM, 49(3), 33-35.
-National Research Council. (2011). Computational thinking in K-12 education: Summary of a workshop. Washington, DC: The National Academies Press.
-ISTE. (2018). ISTE Standards for Students.
+National Research Council. (2011). Computational thinking in K-12 education: 
+https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf
 
 [2] Introducción al pensamiento computacional: https://amexcomp.mx/media/publicaciones/intro-pensamiento-computacional-conceptos.pdf
 
