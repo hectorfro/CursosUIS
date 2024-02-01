@@ -1,5 +1,5 @@
 # Laboratorio de Física II (2024-1)
-En el curso los grupos realizarán las prácticas semana de por medio. 
+En este curso los grupos realizan las prácticas semana de por medio. 
 
 ## Evaluaciones
 La evaluación del laboratorio (100%) estará ponderada de la siguiente manera:
@@ -7,9 +7,13 @@ La evaluación del laboratorio (100%) estará ponderada de la siguiente manera:
 * 50% informe de laboratorios.
 * 30% Proyecto final
 
-## Sobre los datos y la entrega del informe
-* La realización del informe es por grupo pero cada estudiante debe subirlo al Moodle.
-* El informe debe escribirse en LaTex y utilizaremos el overlieaf para escribir el informe. Utilicen el siguiente modelo: https://www.overleaf.com/project/64e6ae4ebe694c5f63ed75b7
+## Sobre la entrega del informe
+* La realización del informe es por grupo pero **cada estudiante debe subirlo al Moodle**.
+* El informe debe escribirse en LaTex. Utilizaremos el Overlieaf para escribir el informe. En el sigiente enlace encontrarán las recomendaciones para la elaboración de cada informe: https://www.overleaf.com/project/64e6ae4ebe694c5f63ed75b7
+* En el siguiente enlace encontrarán una plantilla que pueden usar como base para la elaboración del informe: https://www.overleaf.com/project/65bac8c186f33b752c913900
+
+## Sobre los datos y las hojas de trabajo
+* El análisis de los datos debe hacerse en un Notebook de Python. 
 * Las gráficas deben hacerce en Python y el **Notebook con los datos y cálculos debe ser anexado al informe**.
 
 ## Enlaces importantes 
@@ -22,7 +26,7 @@ La evaluación del laboratorio (100%) estará ponderada de la siguiente manera:
 
 ## Prácticas a realizar 
    Sobre las prácticas deben estar atentos al Moodle, pero las prácticas básicamente son:   
-1. Introducción al uso básico del multímetro. ==> Entrega del informe hasta el **22/9/23**
+1. Introducción al uso básico del multímetro.
 2. Estudio de superficies equipotenciales y su relación con el campo eléctrico.
 3. Determinación de la relación entre voltaje y corriente en materiales óhmicos y no-óhmicos.
 4. Estudio del comportamiento de la resistencia, corriente y voltaje en circuitos mixtos.
