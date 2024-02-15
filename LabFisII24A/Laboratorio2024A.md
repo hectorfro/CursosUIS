@@ -3,13 +3,13 @@ En este curso los grupos realizan las prácticas semana de por medio.
 
 ## Evaluaciones
 La evaluación del laboratorio (100%) estará ponderada de la siguiente manera:
-* 20% Cuestionarios de Preparación de Laboratorios (CPL) y preinformes. 
+* 20% Cuestionarios de Preparación de Laboratorios (CPL) y pre-informes. 
 * 50% informe de laboratorios.
 * 30% Proyecto final
 
-## Sobre el preinforme 
-* Para el día de la clase del laboratorio cada grupo debe llevar un preinforme de la práctica a realizar, este preinforme debe estar escrito a mano con el nombre de los integrantes del grupo.
-* El preinforme debe contener la metodología a aplicarse en el laboratorio y debe contener la secuencias de pasos lógicos que se deben seguir en la realización de la práctica.  
+## Sobre el pre-informe 
+* Para el día de la clase del laboratorio cada grupo debe llevar un pre-informe de la práctica a realizar, este pre-informe debe estar escrito a mano con el nombre de los integrantes del grupo.
+* El pre-informe debe contener la metodología a aplicarse en el laboratorio y debe contener la secuencias de pasos lógicos que se deben seguir en la realización de la práctica.  
 
 ## Sobre la entrega del informe
 * La realización del informe es por grupo pero **cada estudiante debe subirlo al Moodle**.
