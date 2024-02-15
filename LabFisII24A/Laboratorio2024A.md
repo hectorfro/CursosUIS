@@ -30,7 +30,8 @@ La evaluación del laboratorio (100%) estará ponderada de la siguiente manera:
 
 ## Prácticas a realizar 
    Sobre las prácticas deben estar atentos al Moodle, pero las prácticas básicamente son:   
-1. Introducción al uso básico del multímetro.
+1. Introducción al uso básico del multímetro:
+   - https://github.com/hectorfro/CursosUIS/blob/main/LabFisII24A/Practicas/practica01.pdf  
 2. Estudio de superficies equipotenciales y su relación con el campo eléctrico.
 3. Determinación de la relación entre voltaje y corriente en materiales óhmicos y no-óhmicos.
 4. Estudio del comportamiento de la resistencia, corriente y voltaje en circuitos mixtos.
