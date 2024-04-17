@@ -2,7 +2,7 @@
 
 ## Introducción:
 
-El objetivo de este proyecto final es integrar conceptos de Pensamiento Computacional (PC) en las prácticas de laboratorio de Física II. Se pretende que el estudiante  elabore una propuesta para la elaboración de una práctica de laboratorio donde se estudien los fenómenos transitorios en un circuito Resistor-Capacitor (RC)
+El objetivo de este proyecto final es integrar conceptos de Pensamiento Computacional (PC) en las prácticas de laboratorio de Física II. Se pretende que el estudiante elabore una propuesta para la elaboración de una práctica de laboratorio donde se estudien los fenómenos transitorios en un circuito Resistor-Capacitor (RC) en corriente directa. 
 
 El pensamiento computacional es un conjunto de habilidades que nos permiten formular modelos mentales necesarios para plantear la solución de problemas, usando o no computadoras; además, ayudan a desarrollar la interpretación de representaciones. En otras palabras, el pensamiento computacional es una forma de razonar y de resolver problemas, que se inspira en la manera en que los ordenadores procesan la información. Implica la aplicación de técnicas y estrategias propias de la programación y las ciencias informáticas. [1, 2]
 
@@ -34,7 +34,7 @@ Muchos autores están de acuerdo de que existen cuatro prácticas principales de
 
 # Proyecto final: Pensamiento Computacional en las prácticas del Laboratorio de Física II
 
-Los estudiantes deben utilizar el PC para redactar una de práctica del laboratorio. Por ejemplo, crear un programa que registre los datos de forma automática, genere las gráficas o realice el análisis de datos, podrian utilizarán Python para adquirir y analizar datos, lo que les permitirá una comprensión más profunda de los conceptos y habilidades computacionales valiosas. También pueden explorar la utilización del teléfono celular para el montaje experimental y para la toma y/o el análisis de los datos. El informe final será elaborado en $\LaTeX$, enfatizando la presentación profesional de los resultados.
+Los estudiantes deben utilizar el PC para redactar una práctica del laboratorio. Por ejemplo, crear un programa que registre los datos de forma automática, genere las gráficas o realice el análisis de datos, podrian utilizarán Python para adquirir y analizar datos, lo que les permitirá una comprensión más profunda de los conceptos y habilidades computacionales valiosas. El informe final será elaborado en $\LaTeX$, enfatizando la presentación profesional de los resultados.
 
 ## Objetivos:
 - Desarrollar habilidades de PC pensamiento computacional en los estudiantes de física general.
@@ -60,11 +60,11 @@ En este proyecto, trabajarán en grupos para  redactar la práctica de laborator
 
 ## Informe final: 
 El informe final debe incluir los siguientes elementos:
-- Informe final que documente el proyecto.
-- Documento con el "Proyecto de Investigación".
-- Hoja de trabajo.
-- Explicación de cómo el pensamiento computacional se utilizó para la redacción de la práctica de laboratorio.
-- Resultados de la práctica de laboratorio reformulada.
+- Informe final que documente y justifique el proyecto y explique cómo el pensamiento computacional se utilizó para la redacción de la práctica de laboratorio.
+- Documento con el "Proyecto de Investigación" o guia de laboratorio.
+- Documento con la "Hoja de trabajo".
+- Documento con los resultados de la práctica de laboratorio.
+- Notebook utilizado en el análisis de datos.
 
 ### Evaluación:
 El proyecto final será evaluado en base a los siguientes criterios:
@@ -82,7 +82,7 @@ Duración: 2 semanas
 
 1. Revisión bibliográfica
 2. Diseño del experimento: deben diseñar un experimento que permita recopilar los datos relevantes, puede ser, diseñar un diagrama de flujo de cómo debe desarrolarse el experimento de inicio a fin.
-3. Herramientas: deben considerar tanto el hardware (sensores, fuentes de alimentación, cables) como el software (código Python) o el uso de teléfonos celulares para la elaboración de la práctica, la adquisición y/o procesamiento de datos.
+3. Herramientas: deben considerar tanto el hardware (sensores, fuentes de alimentación, cables) como el software (código Python), la adquisición y/o procesamiento de datos.
 4. Implementación de la adquisición de datos: deben escribir y probar las herramientas seleccionadas para adquirir datos del experimento. Esto puede incluir la medición de voltajes, corrientes y otros parámetros relevantes.
 
 Los equipos deben presentar su progreso, incluyendo el diseño del experimento y las herramientas a utilizar. Deben explicar cómo planean adquirir y  analizar los datos y la estructura del informe en $\LaTeX$.  
@@ -120,7 +120,6 @@ Se debe presentar el proyecto final completo con la infografía en la fecha lím
 
 
 ## References
-
 
 [1] Introducción al pensamiento computacional: https://amexcomp.mx/media/publicaciones/intro-pensamiento-computacional-conceptos.pdf
 
