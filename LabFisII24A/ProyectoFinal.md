@@ -86,7 +86,8 @@ Duración: 2 semanas
 3. Herramientas: deben considerar tanto el hardware (sensores, fuentes de alimentación, componentes electrónicos, cables) como el software (código Python), la adquisición y/o procesamiento de datos.
 4. Implementación de la adquisición de datos: deben escribir y probar las herramientas seleccionadas para adquirir datos del experimento. Esto puede incluir la medición de voltajes, corrientes y otros parámetros relevantes.
 
-Los equipos deben presentar su progreso, incluyendo el diseño del experimento y las herramientas a utilizar. Deben explicar cómo planean adquirir y  analizar los datos y la estructura del informe en $\LaTeX$.  
+Los equipos deben presentar su progreso, incluyendo el diseño del experimento y las herramientas a utilizar. Deben explicar cómo planean adquirir y  analizar los datos y la estructura del informe en $\LaTeX$. Deben agregar también el documento "Formato Formulación Proyecto" que se encuentra en: https://docs.google.com/document/d/1G6OQlBPTgFA4_zgUAfb8EarNI16tC0mf/edit
+
 
 El informe preliminar debe ser entregado en la fecha límite: **3/5/24**.
 
