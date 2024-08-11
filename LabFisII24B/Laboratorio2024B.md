@@ -13,8 +13,8 @@ La evaluación del laboratorio (100%) estará ponderada de la siguiente manera:
 
 ## Sobre la entrega del informe
 * La realización del informe es por grupo pero **cada estudiante debe subirlo al Moodle**.
-* El informe debe escribirse en LaTex. Utilizaremos el Overlieaf para escribir el informe. En el sigiente enlace encontrarán las recomendaciones para la elaboración de cada informe: https://www.overleaf.com/read/pjbttrckgdpv#2a3332
-* En el siguiente enlace encontrarán una plantilla que pueden usar como base para la elaboración del informe: https://www.overleaf.com/read/tvfwybdnscnt#f9f788
+* El informe debe escribirse en LaTeX. Utilizaremos el Overlieaf para escribir el informe. En el sigiente enlace encontrarán las recomendaciones para la elaboración de cada informe en  [Overlieaf](https://www.overleaf.com/read/pjbttrckgdpv#2a3332)
+* En el siguiente enlace encontrarán una plantilla que pueden usar como base para la [elaboración del informe](https://www.overleaf.com/read/tvfwybdnscnt#f9f788)
 
 ## Sobre los datos y las hojas de trabajo
 * El análisis de los datos debe hacerse en un Notebook de Python. 
@@ -22,12 +22,12 @@ La evaluación del laboratorio (100%) estará ponderada de la siguiente manera:
 
 ## Enlaces importantes 
 * Una buena herramienta para aprender a escribir ecuaciones en LaTex la encuentran en [codecogs](https://latex.codecogs.com/editor.html)
-* Una guía de [comandos en \LaTeX](https://github.com/hectorfro/CursosUIS/blob/main/LabFisII24B/Latex/Comandos%20LaTeX_Symbols.pdf)
-* Pueden consultar mi manual "Guia para un laboratorio de Física" en: https://github.com/hectorfro/CursosUIS/blob/main/LabFisII24B/LabFisV30.pdf
-* Una buena referencia sobre el Python y el laboratorio la pueden encontrar en: https://marceluda.github.io/python-para-fisicos/tuto/labo2/
-* Es altamente recomendable que utilicen el Colab de Google para hacer los Nootebook:   https://colab.research.google.com/?hl=es
-* Sobre el Colab de Google pueden consultar, entre muchas otras: http://gmc.geofisica.unam.mx/papime2020/Descargables/manuales/manual%20de%20uso%20Google%20Colab.pdf
-* Para aprender sobre Markdown, que es un lenguaje para escribir en los campos de texto en los Notebooks, pueden   consultar: https://colab.research.google.com/notebooks/markdown_guide.ipynb#scrollTo=70pYkR9LiOV0
+* Una guía de [comandos en LaTeX](https://github.com/hectorfro/CursosUIS/blob/main/LabFisII24B/Latex/Comandos%20LaTeX_Symbols.pdf)
+* Pueden consultar mi manual [Guía para un laboratorio de Física](https://github.com/hectorfro/CursosUIS/blob/main/LabFisII24B/LabFisV30.pdf)
+* Una buena referencia sobre el Python y el laboratorio la pueden encontrar en [marceluda](https://marceluda.github.io/python-para-fisicos/tuto/labo2)
+* Es altamente recomendable que utilicen el [Colab de Google](https://colab.research.google.com/?hl=es)
+* Sobre el Colab de Google pueden consultar, entre muchas otros [manuales](http://gmc.geofisica.unam.mx/papime2020/Descargables/manuales/manual%20de%20uso%20Google%20Colab.pdf)
+* Para aprender sobre Markdown, que es un lenguaje para escribir en los campos de texto en los Notebooks, pueden consultar la guía [Markdown](https://colab.research.google.com/notebooks/markdown_guide.ipynb#scrollTo=70pYkR9LiOV0)
 
 ## Prácticas a realizar 
    Sobre las prácticas deben estar atentos al Moodle, pero las prácticas básicamente son:   
