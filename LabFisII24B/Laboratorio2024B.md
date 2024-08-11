@@ -13,7 +13,8 @@ La evaluación del laboratorio (100%) estará ponderada de la siguiente manera:
 
 ## Sobre la entrega del informe
 * La realización del informe es por grupo pero **cada estudiante debe subirlo al Moodle**.
-* El informe debe escribirse en LaTeX. Utilizaremos el Overlieaf para escribir el informe. En el sigiente enlace encontrarán las recomendaciones para la elaboración de cada informe en  [Overlieaf](https://www.overleaf.com/read/pjbttrckgdpv#2a3332)
+* El informe debe escribirse en LaTeX. Utilizaremos el Overlieaf para escribir el informe.
+* En el siguiente enlace encontrarán las recomendaciones para la elaboración de cada informe usando el [Overlieaf](https://www.overleaf.com/read/pjbttrckgdpv#2a3332)
 * En el siguiente enlace encontrarán una plantilla que pueden usar como base para la [elaboración del informe](https://www.overleaf.com/read/tvfwybdnscnt#f9f788)
 
 ## Sobre los datos y las hojas de trabajo
