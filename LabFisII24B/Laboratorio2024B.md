@@ -21,7 +21,7 @@ La evaluación del laboratorio (100%) estará ponderada de la siguiente manera:
 * Las gráficas deben hacerce en Python y el **Notebook con los datos y cálculos debe ser anexado al informe**.
 
 ## Enlaces importantes 
-* Una buena herramienta para aprender a escribir ecuaciones en LaTex la encuentran en: https://latex.codecogs.com/editor.html
+* Una buena herramienta para aprender a escribir ecuaciones en LaTex la encuentran en [codecogs](https://latex.codecogs.com/editor.html)
 * Una guía de comandos: https://github.com/hectorfro/CursosUIS/blob/main/LabFisII24B/Latex/Comandos%20LaTeX_Symbols.pdf
 * Pueden consultar mi manual "Guia para un laboratorio de Física" en: https://github.com/hectorfro/CursosUIS/blob/main/LabFisII24B/LabFisV30.pdf
 * Una buena referencia sobre el Python y el laboratorio la pueden encontrar en: https://marceluda.github.io/python-para-fisicos/tuto/labo2/
