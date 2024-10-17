@@ -1,4 +1,4 @@
-# Elaboración de la práctica de laboratorio: Fenómenos transitorios, carga y descarga de un capacitor.
+# Proyecto Final: Elaboración de la práctica de laboratorio: Fenómenos transitorios, carga y descarga de un capacitor.
 
 ## Introducción:
 
@@ -59,9 +59,13 @@ En este proyecto, trabajarán en grupos para  redactar la práctica de laborator
 - - Magnitudes físicas a calcular. 
 - - Propagación de los errores.
 
+## Herramienta para la simulacion del experimento: 
+Con las herramientas del laboratorio de [simuladores Peth](https://phet.colorado.edu/sims/html/circuit-construction-kit-ac/latest/circuit-construction-kit-ac_all.html) pueden realizar el experimento de manera virtual para definir los valores de los parámateros que se deben tomar en el desarrollo de la práctica. 
+
 ## Informe final: 
-El informe final debe incluir los siguientes elementos:
+El proyecto final debe incluir los siguientes documentos:
 - Informe final que documente y justifique el proyecto y explique cómo el pensamiento computacional se utilizó para la redacción de la práctica de laboratorio.
+- [Formato Formulación Proyecto](https://docs.google.com/document/d/1G6OQlBPTgFA4_zgUAfb8EarNI16tC0mf/edit)
 - Documento con el "Proyecto de Investigación" o guia de laboratorio.
 - Documento con la "Hoja de trabajo".
 - Documento con los resultados de la práctica de laboratorio.
@@ -74,7 +78,7 @@ El proyecto final será evaluado en base a los siguientes criterios:
 - Calidad del informe final.
 
 ### Entrega:
-El proyecto final debe ser entregado en formato digital y la fecha límite de entrega será el **24/5/24**.
+El proyecto final debe ser entregado en formato digital y la fecha límite de entrega será el **1/12/24**.
 
 ### Etapas del proyecto:
 
@@ -88,7 +92,7 @@ Duración: 2 semanas
 
 Los equipos deben presentar su progreso, incluyendo el diseño del experimento y las herramientas a utilizar. Deben explicar cómo planean adquirir y  analizar los datos y la estructura del informe en $\LaTeX$. Deben agregar también el documento [Formato Formulación Proyecto](https://docs.google.com/document/d/1G6OQlBPTgFA4_zgUAfb8EarNI16tC0mf/edit) respectivamente llenado.
 
-El informe preliminar debe ser entregado en la fecha límite: **3/5/24**.
+El informe preliminar debe ser entregado en la fecha límite: **17/11/24**.
 
 #### Etapa 2 - Trabajo Definitivo.
 Duración: 3 semanas. 
@@ -117,17 +121,17 @@ La infografía será evaluada en base a los siguientes criterios:
 - Visualización
 
 ## Fecha de entrega: 
-Se debe presentar el proyecto final completo con la infografía en la fecha límite [2/12/23].
+Se debe presentar el proyecto final completo con la infografía en la fecha límite **1/12/24**
 
 
 ## References
 
-[1] Introducción al pensamiento computacional: https://amexcomp.mx/media/publicaciones/intro-pensamiento-computacional-conceptos.pdf
+[1] [Introducción al pensamiento computacional](https://amexcomp.mx/media/publicaciones/intro-pensamiento-computacional-conceptos.pdf)
 
 [2] Wing, J. M. (2006). Computational thinking. Communications of the ACM, 49(3), 33-35.
 National Research Council. (2011). Computational thinking in K-12 education: 
 https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf
 
-[3] Cómo incorporar el pensamiento computacional en el aprendizaje basado en proyectos. https://eduteka.icesi.edu.co/articulos/iste-pensamiento-computacional-en-abp
+[3] [Cómo incorporar el pensamiento computacional en el aprendizaje basado en proyectos](https://eduteka.icesi.edu.co/articulos/iste-pensamiento-computacional-en-abp)
 
 [4] Weintrop, D., Beheshti, E., Horn, M. et al. Defining Computational Thinking for Mathematics and Science Classrooms. J Sci Educ Technol 25, 127–147 (2016). https://doi.org/10.1007/s10956-015-9581-5
