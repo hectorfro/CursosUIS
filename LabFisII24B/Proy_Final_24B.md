@@ -1,4 +1,5 @@
-# Elaboración de la práctica de laboratorio: Fenómenos transitorios, carga y descarga de un capacitor.
+# Proyecto Final: Elaboración de la práctica de laboratorio: 
+# Fenómenos transitorios, carga y descarga de un capacitor.
 
 ## Introducción:
 
@@ -27,7 +28,7 @@ Una persona puede utilizar el PC para encontrar una solución a un problema coti
 Muchos autores están de acuerdo de que existen cuatro prácticas principales del PC, estas son: [4]
 
 1. Prácticas de datos: recopilación, creación, manipulación, análisis y visualización de datos.
-2. Prácticas de modelado y simulación: uso de modelos computacionales para comprender un concepto, uso de modelos computacionales para encontrar y probar soluciones; Evaluación, diseño y construcción de modelos computacionales..
+2. Prácticas de modelado y simulación: uso de modelos computacionales para comprender un concepto, uso de modelos computacionales para encontrar y probar soluciones; Evaluación, diseño y construcción de modelos computacionales.
 3. Prácticas de resolución de problemas computacionales: preparación de problemas para soluciones computacionales, programación, elección de herramientas computacionales efectivas, evaluación de diferentes enfoques/soluciones para un problema, desarrollo de soluciones computacionales modulares, creación de abstracciones computacionales, resolución de problemas y depuración.
 4. Pensamiento sistémico: invertir en un sistema complejo en su conjunto, comprender las relaciones dentro de un sistema, pensar en niveles, comunicar información sobre un sistema, definir sistemas y gestionar la complejidad.
 
@@ -59,13 +60,17 @@ En este proyecto, trabajarán en grupos para  redactar la práctica de laborator
 - - Magnitudes físicas a calcular. 
 - - Propagación de los errores.
 
+## Herramienta para la simulacion del experimento: 
+Con las herramientas del laboratorio [Simuladores Peth](https://phet.colorado.edu/sims/html/circuit-construction-kit-ac/latest/circuit-construction-kit-ac_all.html) pueden realizar el experimento de manera virtual para definir los valores de los parámateros que se deben tomar en el desarrollo de la práctica. 
+
 ## Informe final: 
-El informe final debe incluir los siguientes elementos:
-- Informe final que documente y justifique el proyecto y explique cómo el pensamiento computacional se utilizó para la redacción de la práctica de laboratorio.
-- Documento con el "Proyecto de Investigación" o guia de laboratorio.
-- Documento con la "Hoja de trabajo".
-- Documento con los resultados de la práctica de laboratorio.
-- Notebook a utilizar en el análisis de datos.
+El proyecto final debe incluir los siguientes documentos:
+1. Informe final que documento que justifique el proyecto y explique cómo el pensamiento computacional se utilizó para la redacción de la práctica de laboratorio.
+2. [Formato Formulación Proyecto](https://docs.google.com/document/d/1G6OQlBPTgFA4_zgUAfb8EarNI16tC0mf/edit)
+3. Documento con el "Proyecto de Investigación" o guia de laboratorio.
+4. Documento con la "Hoja de trabajo".
+5. Documento con los resultados de la práctica de laboratorio.
+6. Notebook a utilizar en el análisis de datos.
 
 ### Evaluación:
 El proyecto final será evaluado en base a los siguientes criterios:
@@ -74,22 +79,21 @@ El proyecto final será evaluado en base a los siguientes criterios:
 - Calidad del informe final.
 
 ### Entrega:
-El proyecto final debe ser entregado en formato digital y la fecha límite de entrega será el **24/5/24**.
+El proyecto final debe ser entregado en formato digital y la fecha límite de entrega será el **1/12/24**.
 
 ### Etapas del proyecto:
 
 ####  Etapa 1 - Propuesta y avance.
-Duración: 2 semanas
+Duración: 3 semanas
 
 1. Revisión bibliográfica
 2. Diseño del experimento: deben diseñar un experimento que permita recopilar los datos relevantes, puede ser, diseñar un diagrama de flujo de cómo debe desarrolarse el experimento de inicio a fin.
 3. Herramientas: deben considerar tanto el hardware (sensores, fuentes de alimentación, componentes electrónicos, cables) como el software (código Python), la adquisición y/o procesamiento de datos.
 4. Implementación de la adquisición de datos: deben escribir y probar las herramientas seleccionadas para adquirir datos del experimento. Esto puede incluir la medición de voltajes, corrientes y otros parámetros relevantes.
 
-Los equipos deben presentar su progreso, incluyendo el diseño del experimento y las herramientas a utilizar. Deben explicar cómo planean adquirir y  analizar los datos y la estructura del informe en $\LaTeX$. Deben agregar también el documento "Formato Formulación Proyecto" que se encuentra en: https://docs.google.com/document/d/1G6OQlBPTgFA4_zgUAfb8EarNI16tC0mf/edit
+Los equipos deben presentar su progreso, incluyendo el diseño del experimento y las herramientas a utilizar. Deben explicar cómo planean adquirir y  analizar los datos y la estructura del informe en $\LaTeX$. Deben agregar también el documento [Formato Formulación Proyecto](https://docs.google.com/document/d/1G6OQlBPTgFA4_zgUAfb8EarNI16tC0mf/edit) respectivamente llenado.
 
-
-El informe preliminar debe ser entregado en la fecha límite: **3/5/24**.
+El informe preliminar debe ser entregado en la fecha límite: **10/10/24**.
 
 #### Etapa 2 - Trabajo Definitivo.
 Duración: 3 semanas. 
@@ -118,17 +122,18 @@ La infografía será evaluada en base a los siguientes criterios:
 - Visualización
 
 ## Fecha de entrega: 
-Se debe presentar el proyecto final completo con la infografía en la fecha límite [2/12/23].
+Se debe presentar el proyecto final completo con la infografía en la fecha límite **1/12/24**
 
 
 ## References
 
-[1] Introducción al pensamiento computacional: https://amexcomp.mx/media/publicaciones/intro-pensamiento-computacional-conceptos.pdf
+[1] [Introducción al pensamiento computacional](https://amexcomp.mx/media/publicaciones/intro-pensamiento-computacional-conceptos.pdf)
 
 [2] Wing, J. M. (2006). Computational thinking. Communications of the ACM, 49(3), 33-35.
 National Research Council. (2011). Computational thinking in K-12 education: 
 https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf
 
-[3] Cómo incorporar el pensamiento computacional en el aprendizaje basado en proyectos. https://eduteka.icesi.edu.co/articulos/iste-pensamiento-computacional-en-abp
+[3] [Cómo incorporar el pensamiento computacional en el aprendizaje basado en proyectos](https://eduteka.icesi.edu.co/articulos/iste-pensamiento-computacional-en-abp)
 
 [4] Weintrop, D., Beheshti, E., Horn, M. et al. Defining Computational Thinking for Mathematics and Science Classrooms. J Sci Educ Technol 25, 127–147 (2016). https://doi.org/10.1007/s10956-015-9581-5
+
