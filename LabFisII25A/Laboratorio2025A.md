@@ -1,4 +1,4 @@
-# Laboratorio de Física II (2024-2)
+# Laboratorio de Física II (2025-1)
 En este curso los grupos realizan las prácticas semana de por medio. 
 
 ## Evaluaciones
