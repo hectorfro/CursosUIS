@@ -1,5 +1,4 @@
-# Proyecto Final: Elaboración de la práctica de laboratorio: 
-# Fenómenos transitorios, carga y descarga de un capacitor.
+# Proyecto Final - Elaboración de una práctica de laboratorio: Fenómenos transitorios, carga y descarga de un capacitor.
 
 ## Introducción:
 
@@ -65,11 +64,12 @@ Con las herramientas del laboratorio [Simuladores Peth](https://phet.colorado.ed
 
 ## Informe final: 
 El proyecto final debe incluir los siguientes documentos:
-1. Informe final que documento que justifique el proyecto y explique cómo el pensamiento computacional se utilizó para la redacción de la práctica de laboratorio.
+
+1. Informe final, esto es, un documento que justifique el proyecto y explique cómo el pensamiento computacional se utilizó para la redacción de la práctica de laboratorio.
 2. [Formato Formulación Proyecto](https://docs.google.com/document/d/1G6OQlBPTgFA4_zgUAfb8EarNI16tC0mf/edit)
-3. Documento con el "Proyecto de Investigación" o guia de laboratorio.
-4. Documento con la "Hoja de trabajo".
-5. Documento con los resultados de la práctica de laboratorio.
+3. Documento con el "Proyecto de Investigación" o "Guia de Laboratorio".
+4. Documento con la "Hoja de trabajo para la recolección de datos".
+5. Documento con los resultados de la práctica de laboratorio, esto es, la evidencia de que la práctica diseñada funciona.
 6. Notebook a utilizar en el análisis de datos.
 
 ### Evaluación:
@@ -77,9 +77,6 @@ El proyecto final será evaluado en base a los siguientes criterios:
 - Creatividad de la elaboración de la práctica de laboratorio.
 - Eficiencia de los códigos de programación o de las herramientas seleccionadas para el tratamiento de datos.
 - Calidad del informe final.
-
-### Entrega:
-El proyecto final debe ser entregado en formato digital y la fecha límite de entrega será el **30/5/25**.
 
 ### Etapas del proyecto:
 
@@ -104,7 +101,7 @@ Duración: 3 semanas.
 5. Presentación final: Cada equipo presentará sus resultados ante el grupo, destacando la importancia de la modernización del laboratorio con Pensamiento Computacional.
 
 ## Fecha de entrega: 
-Se debe presentar el proyecto final completo con la infografía en la fecha límite **30/5/25**
+Se debe presentar el proyecto final completo en la fecha límite: **30/5/25**
 
 
 ## References
