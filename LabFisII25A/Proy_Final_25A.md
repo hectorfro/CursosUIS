@@ -79,7 +79,7 @@ El proyecto final será evaluado en base a los siguientes criterios:
 - Calidad del informe final.
 
 ### Entrega:
-El proyecto final debe ser entregado en formato digital y la fecha límite de entrega será el **1/12/24**.
+El proyecto final debe ser entregado en formato digital y la fecha límite de entrega será el **30/5/25**.
 
 ### Etapas del proyecto:
 
@@ -93,7 +93,6 @@ Duración: 3 semanas
 
 Los equipos deben presentar su progreso, incluyendo el diseño del experimento y las herramientas a utilizar. Deben explicar cómo planean adquirir y  analizar los datos y la estructura del informe en $\LaTeX$. Deben agregar también el documento [Formato Formulación Proyecto](https://docs.google.com/document/d/1G6OQlBPTgFA4_zgUAfb8EarNI16tC0mf/edit) respectivamente llenado.
 
-El informe preliminar debe ser entregado en la fecha límite: **10/10/24**.
 
 #### Etapa 2 - Trabajo Definitivo.
 Duración: 3 semanas. 
@@ -104,25 +103,8 @@ Duración: 3 semanas.
 4. Pensamiento computacional: explicación de cómo el pensamiento computacional se utilizó para reformular la práctica de laboratorio. Resultados de la práctica de laboratorio reformulada.
 5. Presentación final: Cada equipo presentará sus resultados ante el grupo, destacando la importancia de la modernización del laboratorio con Pensamiento Computacional.
 
-
-## Infografía:
-
-La infografía debe ser un resumen visual del proyecto final y debe incluir los siguientes elementos:
-
-- Título del proyecto
-- Objetivos del proyecto
-- Descripción de la práctica de laboratorio original
-- Descripción de la reformulación de la práctica de laboratorio
-- Descripción de cómo el pensamiento computacional se utilizó para automatizar la práctica de laboratorio
-- Resultados de la práctica de laboratorio reformulada
-
-La infografía será evaluada en base a los siguientes criterios:
-- Claridad
-- Concisión
-- Visualización
-
 ## Fecha de entrega: 
-Se debe presentar el proyecto final completo con la infografía en la fecha límite **1/12/24**
+Se debe presentar el proyecto final completo con la infografía en la fecha límite **30/5/25**
 
 
 ## References
