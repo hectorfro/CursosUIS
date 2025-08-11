@@ -8,8 +8,7 @@ La evaluación del laboratorio (100%) estará ponderada de la siguiente manera:
 * 30% Proyecto final
 
 ## Sobre el pre-informe 
-* Para el día de la clase del laboratorio cada grupo debe llevar un pre-informe de la práctica a realizar, este pre-informe debe estar escrito a mano con el nombre de los integrantes del grupo.
-* El pre-informe debe contener la metodología a aplicarse en el laboratorio y debe contener la secuencias de pasos lógicos que se deben seguir en la realización de la práctica. 
+* Para el día de la clase del laboratorio cada grupo debe llevar un pre-informe de la práctica a realizar, este pre-informe debe estar escrito a mano con el nombre de los integrantes del grupo y debe contener la metodología a aplicarse en el laboratorio. 
 
 ## Sobre la entrega del informe
 * La realización del informe es por grupo pero **CADA ESTUDIANTE DEBE SUBIRLO AL MOODLE**.
@@ -25,7 +24,7 @@ La evaluación del laboratorio (100%) estará ponderada de la siguiente manera:
 ## Enlaces importantes 
 * Una buena herramienta para aprender a escribir ecuaciones en $\LaTeX$ la encuentran en [codecogs](https://latex.codecogs.com/editor.html)
 * Una guía de [comandos en LaTeX](https://github.com/hectorfro/CursosUIS/blob/main/LabFisII24B/Latex/Comandos%20LaTeX_Symbols.pdf)
-* Pueden consultar mi  [Manual de incertidumbres para ellaboratorio de Física](https://github.com/hectorfro/CursosUIS/blob/main/LabFisII25B/ErroresEnLabFis.pdf)
+* Pueden consultar mi  [Manual de incertidumbres para el laboratorio de física](https://github.com/hectorfro/CursosUIS/blob/main/LabFisII25B/ErroresEnLabFis.pdf)
 * Una buena referencia sobre el Python y el laboratorio la pueden encontrar en [marceluda](https://marceluda.github.io/python-para-fisicos/tuto/labo2)
 * Es altamente recomendable que utilicen el [Colab de Google](https://colab.research.google.com/?hl=es)
 * Sobre el Colab de Google pueden consultar, entre muchas otros [manuales](http://gmc.geofisica.unam.mx/papime2020/Descargables/manuales/manual%20de%20uso%20Google%20Colab.pdf)
