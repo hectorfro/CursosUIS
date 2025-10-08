@@ -38,7 +38,7 @@ Los estudiantes deben utilizar el PC para elaborar una práctica del laboratorio
 
 ## Objetivos:
 - Desarrollar habilidades de PC en los estudiantes de física general.
-- Aplicar el PC para redactar una práctica de laboratorio de Física II. 
+- Aplicar el PC para elaborar una práctica de laboratorio de Física II. 
 - Desarrollar una infografía que resuma la implementación del proyecto.
 
 ## Requisitos:
@@ -47,7 +47,7 @@ Los estudiantes deben utilizar el PC para elaborar una práctica del laboratorio
 - Los estudiantes deben dedicar al menos 20 horas al proyecto.
 
 ## Descripción:
-En este proyecto, trabajarán en grupos para  redactar la práctica de laboratorio sobre los fenómenos transitorios, carga y descarga de un capacitor. La redacción del proyecto debe incluir las siguientes actividades:
+En este proyecto, trabajarán en grupos para  elaborar la práctica de laboratorio sobre los fenómenos transitorios, carga y descarga de un capacitor. La redacción del proyecto debe incluir las siguientes actividades:
 - Redactar el documento "Proyecto de Investigación", o guia de laboratorio, donde se especifican los objetivos, se plantea el problema a estudiar,  se describa el marco teórico y la metodología. 
 - Hoja de trabajo para la recolección de datos.
 - Los docuementos anteriores deben contener:
@@ -80,7 +80,7 @@ El proyecto final será evaluado en base a los siguientes criterios:
 ### Etapas del proyecto:
 
 ####  Etapa 1 - Propuesta y avance.
-Duración: 3 semanas
+Duración: 3 semanas (10/10/25 - 31/10/25)
 
 1. Revisión bibliográfica
 2. Diseño del experimento: deben diseñar un experimento que permita recopilar los datos relevantes, puede ser, diseñar un diagrama de flujo de cómo debe desarrolarse el experimento de inicio a fin.
@@ -91,7 +91,7 @@ Los equipos deben presentar su progreso, incluyendo el diseño del experimento y
 
 
 #### Etapa 2 - Trabajo Definitivo.
-Duración: 3 semanas. 
+Duración: 3 semanas. (3/11/25 - 21/11/25)
 
 1. Montaje experimental: se debe mostrar cual es el montaje experimental propuesto con los pasos lógicos para luego tomar los datos.
 2. Adquisición de datos y análisis: se deben llevar a cabo el experimento para adquirir y analizar datos. Pueden utilizar bibliotecas como NumPy, Matplotlib y Pandas o aplicaciones desde el teléfono celular. 
