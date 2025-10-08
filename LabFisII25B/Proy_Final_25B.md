@@ -75,7 +75,7 @@ El proyecto final debe incluir los siguientes documentos:
 El proyecto final será evaluado en base a los siguientes criterios:
 - Creatividad de la elaboración de la práctica de laboratorio.
 - Eficiencia de los códigos de programación o de las herramientas seleccionadas para el tratamiento de datos.
-- Calidad del informe final.
+- Calidad y funcionalidad de la guía de laboratorio.
 
 ### Etapas del proyecto:
 
