@@ -38,8 +38,7 @@ Los estudiantes deben utilizar el PC para elaborar una práctica del laboratorio
 
 ## Objetivos:
 - Desarrollar habilidades de PC en los estudiantes de física general.
-- Aplicar el PC para redactar una prácticas de laboratorio de Física II. 
-- Escribir un informe final que documente el proyecto.
+- Aplicar el PC para redactar una práctica de laboratorio de Física II. 
 - Desarrollar una infografía que resuma la implementación del proyecto.
 
 ## Requisitos:
@@ -49,7 +48,7 @@ Los estudiantes deben utilizar el PC para elaborar una práctica del laboratorio
 
 ## Descripción:
 En este proyecto, trabajarán en grupos para  redactar la práctica de laboratorio sobre los fenómenos transitorios, carga y descarga de un capacitor. La redacción del proyecto debe incluir las siguientes actividades:
-- Redactar el documento "Proyecto de Investigación", o guia de laboratorio, donde se especifican los objetivos, se plantea el problea a estudiar,  se describa el marco teórico y la metodología. 
+- Redactar el documento "Proyecto de Investigación", o guia de laboratorio, donde se especifican los objetivos, se plantea el problema a estudiar,  se describa el marco teórico y la metodología. 
 - Hoja de trabajo para la recolección de datos.
 - Los docuementos anteriores deben contener:
 - - Montaje del experimento.
@@ -65,12 +64,12 @@ Con las herramientas del laboratorio [Simuladores Peth](https://phet.colorado.ed
 ## Informe final: 
 El proyecto final debe incluir los siguientes documentos:
 
-1. Informe final, esto es, un documento que justifique el proyecto y explique cómo el pensamiento computacional se utilizó para la redacción de la práctica de laboratorio.
-2. [Formato Formulación Proyecto](https://docs.google.com/document/d/1G6OQlBPTgFA4_zgUAfb8EarNI16tC0mf/edit)
-3. Documento con el "Proyecto de Investigación" o "Guia de Laboratorio".
-4. Documento con la "Hoja de trabajo para la recolección de datos".
-5. Documento con los resultados de la práctica de laboratorio, esto es, la evidencia de que la práctica diseñada funciona.
-6. Notebook a utilizar en el análisis de datos.
+1. [Formato Formulación Proyecto](https://docs.google.com/document/d/1G6OQlBPTgFA4_zgUAfb8EarNI16tC0mf/edit)
+2. Documento con el "Proyecto de Investigación" o "Guia de Laboratorio".
+3. Documento con la "Hoja de trabajo para la recolección de datos".
+4. Documento con los resultados de la práctica de laboratorio, esto es, la evidencia de que la práctica diseñada funciona.
+5. Notebook a utilizar en el análisis de datos.
+6. Infografía que resuma la implementación del proyecto.
 
 ### Evaluación:
 El proyecto final será evaluado en base a los siguientes criterios:
@@ -96,12 +95,12 @@ Duración: 3 semanas.
 
 1. Montaje experimental: se debe mostrar cual es el montaje experimental propuesto con los pasos lógicos para luego tomar los datos.
 2. Adquisición de datos y análisis: se deben llevar a cabo el experimento para adquirir y analizar datos. Pueden utilizar bibliotecas como NumPy, Matplotlib y Pandas o aplicaciones desde el teléfono celular. 
-3. Elaboración del informe: los equipos deben redactar un informe técnico utilizando $\LaTeX$. Esto incluye la descripción del experimento, resultados, análisis de datos y conclusiones. Deben asegurarse de que el informe sea estéticamente agradable y profesional.
+3. Elaboración del informe: los equipos deben redactar el "Proyecto de Investigación" o "Guia de Laboratorio" utilizando $\LaTeX$. Esto incluye la descripción del experimento, resultados, análisis de datos y conclusiones. Deben asegurarse de que el informe sea estéticamente agradable y profesional.
 4. Pensamiento computacional: explicación de cómo el pensamiento computacional se utilizó para reformular la práctica de laboratorio. Resultados de la práctica de laboratorio reformulada.
-5. Presentación final: Cada equipo presentará sus resultados ante el grupo, destacando la importancia de la modernización del laboratorio con Pensamiento Computacional.
+5. Presentación final: Cada equipo presentará sus resultados ante el grupo, destacando la importancia de la modernización del laboratorio con el uso del Pensamiento Computacional.
 
 ## Fecha de entrega: 
-Se debe presentar el proyecto final completo en la fecha límite: **30/5/25**
+Se debe presentar el proyecto final completo en la fecha límite: **21/11/25**
 
 
 ## References
