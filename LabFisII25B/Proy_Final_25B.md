@@ -1,117 +1,221 @@
-# Proyecto Final - Elaboración de una práctica de laboratorio: Fenómenos transitorios, carga y descarga de un capacitor.
-
-## Introducción:
-
-El objetivo de este proyecto final es integrar conceptos de Pensamiento Computacional (PC) en las prácticas de laboratorio de Física II. Se pretende que el estudiante elabore una propuesta para la elaboración de una práctica de laboratorio donde se estudien los fenómenos transitorios en un circuito Resistor-Capacitor (circuito RC) en corriente directa. 
-
-El pensamiento computacional es un conjunto de habilidades que nos permiten formular modelos mentales necesarios para plantear la solución de problemas, usando o no computadoras; además, ayudan a desarrollar la interpretación de representaciones. En otras palabras, el pensamiento computacional es una forma de razonar y de resolver problemas, que se inspira en la manera en que los ordenadores procesan la información. Implica la aplicación de técnicas y estrategias propias de la programación y las ciencias informáticas. [1, 2]
-
-Las habilidades de pensamiento computacional se pueden dividir en cuatro categorías principales:
-
-1. Descomposición: dividir un problema o sistema complejo en partes más pequeñas y manejables.
-2. Reconocimiento de patrones: buscar similitudes entre y dentro de los problemas.
-3. Abstracción: centrarse únicamente en la información importante, ignorando detalles irrelevantes.
-4. Algoritmos: desarrollar una solución paso a paso al problema, o las reglas a seguir para resolver el problema
-  
-El PC es una habilidad importante para la resolución de problemas en una variedad de campos, como la ciencia, la ingeniería, los negocios y la vida cotidiana.
-
-Algunos ejemplos de cómo se puede utilizar el PC para resolver problemas:
-
-- Un científico puede utilizar el PC para diseñar un experimento para probar una hipótesis.
-- Un ingeniero puede utilizar el PC para diseñar un nuevo producto.
-- Un empresario puede utilizar el PC para crear un nuevo modelo de negocio.
-
-Una persona puede utilizar el PC para encontrar una solución a un problema cotidiano, como organizar sus finanzas o planificar un viaje. El PC es una habilidad que se puede aprender y desarrollar con la práctica. Hay muchos recursos disponibles para ayudar a las personas a aprender sobre el PC, como libros, cursos en línea y talleres. [3]
-
-   
-Muchos autores están de acuerdo de que existen cuatro prácticas principales del PC, estas son: [4]
-
-1. Prácticas de datos: recopilación, creación, manipulación, análisis y visualización de datos.
-2. Prácticas de modelado y simulación: uso de modelos computacionales para comprender un concepto, uso de modelos computacionales para encontrar y probar soluciones; Evaluación, diseño y construcción de modelos computacionales.
-3. Prácticas de resolución de problemas computacionales: preparación de problemas para soluciones computacionales, programación, elección de herramientas computacionales efectivas, evaluación de diferentes enfoques/soluciones para un problema, desarrollo de soluciones computacionales modulares, creación de abstracciones computacionales, resolución de problemas y depuración.
-4. Pensamiento sistémico: invertir en un sistema complejo en su conjunto, comprender las relaciones dentro de un sistema, pensar en niveles, comunicar información sobre un sistema, definir sistemas y gestionar la complejidad.
-
-
-# Proyecto final: Pensamiento Computacional en las prácticas del Laboratorio de Física II
-
-Los estudiantes deben utilizar el PC para elaborar una práctica del laboratorio. Por ejemplo, podrian utilizarán Python para adquirir y analizar datos, lo que les permitirá una comprensión más profunda de los conceptos y habilidades computacionales valiosas. El informe final será elaborado en $\LaTeX$, enfatizando la presentación profesional de los resultados.
-
-## Objetivos:
-- Desarrollar habilidades de PC en los estudiantes de física general.
-- Aplicar el PC para elaborar una práctica de laboratorio de Física II. 
-- Desarrollar una infografía que resuma la implementación del proyecto.
-
-## Requisitos:
-- Los estudiantes deben estar familiarizados con los conceptos básicos de electromagnetismo.
-- Los estudiantes deben tener acceso a una computadora con software de programación y conexión a internet.
-- Los estudiantes deben dedicar al menos 20 horas al proyecto.
-
-## Descripción:
-En este proyecto, trabajarán en grupos para  elaborar la práctica de laboratorio sobre los fenómenos transitorios, carga y descarga de un capacitor. La redacción del proyecto debe incluir las siguientes actividades:
-- Redactar el documento "Proyecto de Investigación", o guia de laboratorio, donde se especifican los objetivos, se plantea el problema a estudiar,  se describa el marco teórico y la metodología. 
-- Hoja de trabajo para la recolección de datos.
-- Los docuementos anteriores deben contener:
-- - Montaje del experimento.
-- - Mediciones o toma de datos.
-- - Gráficas de datos.
-- - Análisis de datos.
-- - Magnitudes físicas a calcular. 
-- - Propagación de los errores.
-
-## Herramienta para la simulacion del experimento: 
-Con las herramientas del laboratorio [Simuladores Peth](https://phet.colorado.edu/sims/html/circuit-construction-kit-ac/latest/circuit-construction-kit-ac_all.html) pueden realizar el experimento de manera virtual para definir los valores de los parámateros que se deben tomar en el desarrollo de la práctica. 
-
-## Informe final: 
-El proyecto final debe incluir los siguientes documentos:
-
-1. [Formato Formulación Proyecto](https://docs.google.com/document/d/1G6OQlBPTgFA4_zgUAfb8EarNI16tC0mf/edit)
-2. Documento con el "Proyecto de Investigación" o "Guia de Laboratorio".
-3. Documento con la "Hoja de trabajo para la recolección de datos".
-4. Documento con los resultados de la práctica de laboratorio, esto es, la evidencia de que la práctica diseñada funciona.
-5. Notebook a utilizar en el análisis de datos.
-6. Infografía que resuma la implementación del proyecto.
-
-### Evaluación:
-El proyecto final será evaluado en base a los siguientes criterios:
-- Creatividad de la elaboración de la práctica de laboratorio.
-- Eficiencia de los códigos de programación o de las herramientas seleccionadas para el tratamiento de datos.
-- Calidad y funcionalidad de la guía de laboratorio.
-
-### Etapas del proyecto:
-
-####  Etapa 1 - Propuesta y avance.
-Duración: 3 semanas (10/10/25 - 31/10/25)
-
-1. Revisión bibliográfica
-2. Diseño del experimento: deben diseñar un experimento que permita recopilar los datos relevantes, puede ser, diseñar un diagrama de flujo de cómo debe desarrolarse el experimento de inicio a fin.
-3. Herramientas: deben considerar tanto el hardware (sensores, fuentes de alimentación, componentes electrónicos, cables) como el software (código Python), la adquisición y/o procesamiento de datos.
-4. Implementación de la adquisición de datos: deben escribir y probar las herramientas seleccionadas para adquirir datos del experimento. Esto puede incluir la medición de voltajes, corrientes y otros parámetros relevantes.
-
-Los equipos deben presentar su progreso, incluyendo el diseño del experimento y las herramientas a utilizar. Deben explicar cómo planean adquirir y  analizar los datos y la estructura del informe en $\LaTeX$. Deben agregar también el documento [Formato Formulación Proyecto](https://docs.google.com/document/d/1G6OQlBPTgFA4_zgUAfb8EarNI16tC0mf/edit) respectivamente llenado.
-
-
-#### Etapa 2 - Trabajo Definitivo.
-Duración: 3 semanas. (3/11/25 - 21/11/25)
-
-1. Montaje experimental: se debe mostrar cual es el montaje experimental propuesto con los pasos lógicos para luego tomar los datos.
-2. Adquisición de datos y análisis: se deben llevar a cabo el experimento para adquirir y analizar datos. Pueden utilizar bibliotecas como NumPy, Matplotlib y Pandas o aplicaciones desde el teléfono celular. 
-3. Elaboración del informe: los equipos deben redactar el "Proyecto de Investigación" o "Guia de Laboratorio" utilizando $\LaTeX$. Esto incluye la descripción del experimento, resultados, análisis de datos y conclusiones. Deben asegurarse de que el informe sea estéticamente agradable y profesional.
-4. Pensamiento computacional: explicación de cómo el pensamiento computacional se utilizó para reformular la práctica de laboratorio. Resultados de la práctica de laboratorio reformulada.
-5. Presentación final: Cada equipo presentará sus resultados ante el grupo, destacando la importancia de la modernización del laboratorio con el uso del Pensamiento Computacional.
-
-## Fecha de entrega: 
-Se debe presentar el proyecto final completo en la fecha límite: **21/11/25**
-
-
-## References
-
-[1] [Introducción al pensamiento computacional](https://amexcomp.mx/media/publicaciones/intro-pensamiento-computacional-conceptos.pdf)
-
-[2] Wing, J. M. (2006). Computational thinking. Communications of the ACM, 49(3), 33-35.
-National Research Council. (2011). Computational thinking in K-12 education: 
-https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf
-
-[3] [Cómo incorporar el pensamiento computacional en el aprendizaje basado en proyectos](https://eduteka.icesi.edu.co/articulos/iste-pensamiento-computacional-en-abp)
-
-[4] Weintrop, D., Beheshti, E., Horn, M. et al. Defining Computational Thinking for Mathematics and Science Classrooms. J Sci Educ Technol 25, 127–147 (2016). https://doi.org/10.1007/s10956-015-9581-5
-
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "setup"
+      },
+      "outputs": [],
+      "source": [
+        "import sympy as sp\n",
+        "from sympy import *\n",
+        "sp.init_printing() # Para que las ecuaciones se vean elegantes"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "portada"
+      },
+      "source": [
+        "# Taller de Física con SymPy (Colaborativo)\n",
+        "\n",
+        "## Portada y Asignación de Roles\n",
+        "\n",
+        "| Rol | Estudiante Responsable | Función Principal |\n",
+        "| :--- | :--- | :--- |\n",
+        "| **A: El Modelador** | [Nombre Estudiante 1] | Planteamiento físico y LaTeX |\n",
+        "| **B: El Programador** | [Nombre Estudiante 2] | Implementación simbólica en SymPy |\n",
+        "| **C: El Analista** | [Nombre Estudiante 3] | Validación, gráficas y conclusiones |\n",
+        "\n",
+        "**Instrucciones de auditoría:** Cada celda debe ser editada por el responsable de su rol. El profesor verificará esto en el *Historial de Revisiones* de Colab.\n",
+        "\n",
+        "---"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "intro"
+      },
+      "source": [
+        "## Introducción\n",
+        "Escribe aquí una breve introducción sobre el fenómeno físico a estudiar (ej. Electromagnetismo en Física 2 u Ondas en Física 3)."
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "prob1_header"
+      },
+      "source": [
+        "## Problema 1\n",
+        "**Enunciado:** [Inserta aquí el problema del examen o taller]"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "prob1_markdown"
+      },
+      "source": [
+        "### 1.1 Planteamiento Físico (Responsable: Estudiante A)\n",
+        "Desarrolle la solución algebraica detallando las leyes físicas aplicadas (LaTeX):\n",
+        "\n",
+        "$$ E = \\frac{1}{4\\pi\\epsilon_0} \\int \\frac{dq}{r^2} \\hat{r} $$"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "prob1_code"
+      },
+      "outputs": [],
+      "source": [
+        "# 1.2 Solución en SymPy (Responsable: Estudiante B)\n",
+        "# Defina sus símbolos y ecuaciones aquí\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "prob1_analisis"
+      },
+      "source": [
+        "### 1.3 Validación y Análisis (Responsable: Estudiante C)\n",
+        "- **Validación:** ¿El resultado de SymPy coincide con el planteamiento del Estudiante A?\n",
+        "- **Análisis:** Explique qué sucede con el resultado si las variables cambian (ej. si la distancia aumenta al doble)."
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "separador1"
+      },
+      "source": [
+        "---\n",
+        "---"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "prob2_header"
+      },
+      "source": [
+        "## Problema 2\n",
+        "**Enunciado:** [Inserta enunciado]"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "prob2_markdown"
+      },
+      "source": [
+        "### 2.1 Planteamiento Físico (Responsable: Estudiante B)\n",
+        "*Nota: Los roles pueden rotar por problema si el docente lo autoriza.*"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "prob2_code"
+      },
+      "outputs": [],
+      "source": [
+        "# 2.2 Solución en SymPy (Responsable: Estudiante C)"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "prob2_analisis"
+      },
+      "source": [
+        "### 2.3 Validación y Análisis (Responsable: Estudiante A)"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "separador2"
+      },
+      "source": [
+        "---\n",
+        "---"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "prob3_header"
+      },
+      "source": [
+        "## Problema 3\n",
+        "**Enunciado:** [Inserta enunciado]"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "prob3_markdown"
+      },
+      "source": [
+        "### 3.1 Planteamiento Físico (Responsable: Estudiante C)"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "prob3_code"
+      },
+      "outputs": [],
+      "source": [
+        "# 3.2 Solución en SymPy (Responsable: Estudiante A)"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "prob3_analisis"
+      },
+      "source": [
+        "### 3.3 Validación y Análisis (Responsable: Estudiante B)"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "protocolo_final"
+      },
+      "source": [
+        "---\n",
+        "## Protocolo de Trabajo Colaborativo\n",
+        "1. **Comunicación:** Use la función de 'Comentarios' de Colab para discutir errores.\n",
+        "2. **Carga de Trabajo:** Si un integrante no aporta en 24h, los otros dos deben notificar al docente y avanzar en el cuaderno dejando constancia.\n",
+        "3. **Evaluación:** La nota individual dependerá de las celdas asignadas en los roles anteriores.\n",
+        "\n",
+        "**F I N**"
+      ]
+    }
+  ]
+}
