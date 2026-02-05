@@ -1,4 +1,4 @@
-# Laboratorio de Física II (2025-2)
+# Laboratorio de Física II (2026-1)
 En este curso los grupos realizan las prácticas semana de por medio. 
 
 ## Evaluaciones
@@ -12,18 +12,14 @@ La evaluación del laboratorio (100%) estará ponderada de la siguiente manera:
 
 ## Sobre la entrega del informe
 * La realización del informe es por grupo pero **CADA ESTUDIANTE DEBE SUBIRLO AL MOODLE**.
-* El informe debe escribirse en $\LaTeX$. Utilizaremos el Overlieaf para escribir el informe.
-* En el siguiente enlace encontrarán las recomendaciones para la elaboración de cada informe usando el [Overlieaf](https://www.overleaf.com/read/pjbttrckgdpv#2a3332)
-* En el siguiente enlace encontrarán una plantilla que pueden usar como base para la [elaboración del informe](https://www.overleaf.com/read/tvfwybdnscnt#f9f788)
+* El informe debe hacerse en un Notebook de Python, podemos usar el Colab de Google.
 
 ## Sobre los datos y las hojas de trabajo
 * El análisis de los datos se recomienda hacerlo en un Notebook de Python, podemos usar el Colab de Google.
 * Las gráficas deben hacerce en Python y el **Notebook con los datos y cálculos debe ser anexado al informe**.
-* Se recomienda consultar el [Notebook genérico](https://github.com/hectorfro/CursosUIS/blob/main/LabFisII24B/Notebook/TutorialLabV10.ipynb) que contiene un borrador de una práctica de labortorio donde se miden corrientes y voltajes para un posterior análiss de datos. Es altamante recomendable trabajar cada práctica de laboratorio en un Notebook a modo de borrador y después pasar el contenido al Overleaf para la edición final en $\LaTeX$.
+* Se recomienda consultar el [Notebook genérico](https://github.com/hectorfro/CursosUIS/blob/main/LabFisII24B/Notebook/TutorialLabV10.ipynb) que contiene un borrador de una práctica de labortorio donde se miden corrientes y voltajes para un posterior análiss de datos. 
 
 ## Enlaces importantes 
-* Una buena herramienta para aprender a escribir ecuaciones en $\LaTeX$ la encuentran en [codecogs](https://latex.codecogs.com/editor.html)
-* Una guía de [comandos en LaTeX](https://github.com/hectorfro/CursosUIS/blob/main/LabFisII24B/Latex/Comandos%20LaTeX_Symbols.pdf)
 * Pueden consultar mi  [Manual de incertidumbres para el laboratorio de física](https://github.com/hectorfro/CursosUIS/blob/main/LabFisII25B/ErroresEnLabFis.pdf)
 * Una buena referencia sobre el Python y el laboratorio la pueden encontrar en [marceluda](https://marceluda.github.io/python-para-fisicos/tuto/labo2)
 * Es altamente recomendable que utilicen el [Colab de Google](https://colab.research.google.com/?hl=es)
