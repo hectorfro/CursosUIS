@@ -1,1 +1,1 @@
-Laboratorio de Física II para el semestre 2024-1
+Laboratorio de Física II para el semestre 2026-1
