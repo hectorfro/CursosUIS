@@ -20,6 +20,7 @@ La evaluación del laboratorio (100%) estará ponderada de la siguiente manera:
 * Se recomienda consultar el [Notebook genérico](https://github.com/hectorfro/CursosUIS/blob/main/LabFisII24B/Notebook/TutorialLabV10.ipynb) que contiene un borrador de una práctica de labortorio donde se miden corrientes y voltajes para un posterior análiss de datos. 
 
 ## Enlaces importantes 
+* Una buena herramienta para aprender a escribir ecuaciones en $\LaTeX$ la encuentran en [codecogs](https://latex.codecogs.com/editor.html)
 * Pueden consultar mi  [Manual de incertidumbres para el laboratorio de física](https://github.com/hectorfro/CursosUIS/blob/main/LabFisII25B/ErroresEnLabFis.pdf)
 * Una buena referencia sobre el Python y el laboratorio la pueden encontrar en [marceluda](https://marceluda.github.io/python-para-fisicos/tuto/labo2)
 * Es altamente recomendable que utilicen el [Colab de Google](https://colab.research.google.com/?hl=es)
