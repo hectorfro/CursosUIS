@@ -33,8 +33,8 @@
 5. Ve al menú: **Archivo → Guardar una copia en Drive**
 6. Se creará una copia en tu carpeta "Colab Notebooks" de Google Drive
 7. **Renombra el archivo** según las instrucciones del profesor:
-   - Formato: `GXX_Practica00.ipynb`
-   - Ejemplo: `G04_Practica00.ipynb` (Grupo 04)
+   - Formato: `GXX_P01.ipynb`
+   - Ejemplo: `G04_P01.ipynb` (Grupo 04)
 
 ✅ **Verificación:** El archivo debe aparecer en tu Google Drive con el nombre correcto.
 
@@ -215,22 +215,10 @@ Todo el equipo: Revisión final
    - Márgenes: **Predeterminado**
 4. Haz clic en **Guardar**
 5. Nombra el archivo según instrucciones del profesor:
-   - Formato: `GXX_Practica00.pdf`
-   - Ejemplo: `G04_Practica00.pdf`
+   - Formato: `GXX_P01.pdf`
+   - Ejemplo: `G04_P01.pdf`
 6. Guarda el PDF en tu carpeta de descargas
-
-**⚠️ Problemas comunes al generar PDF:**
-
-**Problema:** Las ecuaciones LaTeX no se ven bien en el PDF
-**Solución:** Espera 2-3 segundos antes de imprimir para que se rendericen
-
-**Problema:** El PDF sale cortado o con formato raro
-**Solución:** Usa Chrome o Edge. Firefox a veces da problemas.
-
-**Problema:** Las gráficas no aparecen en el PDF
-**Solución:** Vuelve a ejecutar la celda de la gráfica, espera que se muestre, luego imprime.
-
-✅ **Verificación:** Abre el PDF y verifica que TODO se vea bien (texto, ecuaciones, tabla, figura).
+7. ✅ **Verificación:** Abre el PDF y verifica que TODO se vea bien (texto, ecuaciones, tabla, figura).
 
 ---
 
@@ -245,24 +233,23 @@ Todo el equipo: Revisión final
    - Ingresa a Google Classroom
    - Busca la tarea correspondiente
    - Haz clic en **"Agregar o crear"** → **"Archivo"**
-   - Selecciona el PDF generado: `GXX_Practica01_Pendulo.pdf`
+   - Selecciona el PDF generado: `GXX_P01.pdf`
    - Haz clic en **"Entregar"**
    - Confirma la entrega
+   - Repita el proceso para subir el archivo `GXX_P01.ipynb`
 
 2. **Estudiantes A y B:**
    - Ingresan a Classroom
-   - Ven la tarea y verifican que el archivo PDF ya está adjunto
+   - Ven la tarea y verifican que el archivo PDF y el archivo .ipynb ya están adjuntos
    - Hacen clic en **"Marcar como completado"** o **"Entregar"**
    - Confirman
 
 **⚠️ IMPORTANTE:**
-- Los 3 estudiantes deben aparecer como "Entregado" en Classroom
-- Solo se sube 1 PDF (el del Estudiante C), pero todos marcan la tarea
-- No suban el archivo `.ipynb` a menos que el profesor lo solicite
-
+- El estudiante C sube al Classroom los dos archivos: el .pdf y el .ipynb
+- **Todos los estudiantes deben subir el archivo  `.pdf` al Moodle**
 ✅ **Verificación:** En Classroom debe aparecer:
 - Estado: **Entregado**
-- Archivo adjunto: **GXX_Practica00.pdf**
+- Archivo adjunto: **GXX_P01.pdf**
 - Los 3 nombres marcados como entregado
 
 ---
