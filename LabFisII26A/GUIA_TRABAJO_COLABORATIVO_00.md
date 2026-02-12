@@ -245,9 +245,9 @@ Todo el equipo: Revisión final
    - Confirman
 
 **⚠️ IMPORTANTE:**
-- El estudiante C sube al Classroom los dos archivos: el .pdf y el .ipynb
+- El estudiante C sube al Classroom los dos (2) archivos: el .pdf y el .ipynb
 - **Todos los estudiantes deben subir el archivo  `.pdf` al Moodle**
-✅ **Verificación:** En Classroom debe aparecer:
+- ✅ **Verificación:** En Classroom debe aparecer:
 - Estado: **Entregado**
 - Archivo adjunto: **GXX_P01.pdf**
 - Los 3 nombres marcados como entregado
