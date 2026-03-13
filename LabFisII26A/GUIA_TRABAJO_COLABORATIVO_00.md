@@ -22,7 +22,7 @@
 
 ### **PASO 1: APERTURA INICIAL DEL NOTEBOOK** (Solo 1 estudiante del grupo)
 
-**Responsable:** Cualquier integrante del equipo (recomendado: Estudiante C - Analista)
+**Responsable:** Cualquier integrante del equipo (**recomendado: Estudiante C - Analista**)
 
 **Acciones:**
 
@@ -247,11 +247,13 @@ Todo el equipo: Revisión final
 - **Todos los estudiantes deben subir el archivo  .pdf al Moodle**
   
 - **Verificación:**
-  En Classroom debe aparecer:
+  En el Classroom debe aparecer:
+  
   ✅ Archivo adjunto: **GXX_P01.ipynb**
 - ✅ Estado: **Entregado**
   
   En el Moodle debe aparecer:
+  
 - ✅ Archivo adjunto: **GXX_P01.pdf** todos los integrantes del grupo. 
 - ✅ Estado: **Entregado**
 
