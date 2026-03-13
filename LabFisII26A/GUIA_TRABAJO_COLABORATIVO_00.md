@@ -80,7 +80,7 @@ Roles asignados:
 
 **Acciones:**
 
-1. Abre el enlace compartido en WhatsApp
+1. Abre el enlace que les fue compartido.
 2. Si Google Drive te pide iniciar sesión, usa tu **correo**
 3. El archivo debe abrirse en Colab en modo **edición** (no "solo lectura")
 4. **Prueba de escritura:** Ve a la celda de la portada y escribe tu nombre en el rol asignado
