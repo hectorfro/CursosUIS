@@ -233,24 +233,27 @@ Todo el equipo: Revisión final
    - Ingresa a Google Classroom
    - Busca la tarea correspondiente
    - Haz clic en **"Agregar o crear"** → **"Archivo"**
-   - Selecciona el PDF generado: `GXX_P01.pdf`
+   - Selecciona el archivo: `GXX_PYY.ipynb`
    - Haz clic en **"Entregar"**
    - Confirma la entrega
-   - Repita el proceso para subir el archivo `GXX_P01.ipynb`
 
 2. **Estudiantes A y B:**
    - Ingresan a Classroom
-   - Ven la tarea y verifican que el archivo PDF y el archivo .ipynb ya están adjuntos
+   - Ven la tarea y verifican que el archivo .ipynb ya están adjuntos
    - Hacen clic en **"Marcar como completado"** o **"Entregar"**
    - Confirman
 
 **⚠️ IMPORTANTE:**
-- El estudiante C sube al Classroom los dos (2) archivos: el .pdf y el .ipynb
-- **Todos los estudiantes deben subir el archivo  `.pdf` al Moodle**
-- **Verificación:** En Classroom debe aparecer:
+- **Todos los estudiantes deben subir el archivo  .pdf al Moodle**
+  
+- **Verificación:**
+  En Classroom debe aparecer:
+  ✅ Archivo adjunto: **GXX_P01.ipynb**
 - ✅ Estado: **Entregado**
-- ✅ Archivo adjunto: **GXX_P01.pdf**
-- ✅ Archivo adjunto: **GXX_P01.ipynb**
+  
+  En el Moodle debe aparecer:
+- ✅ Archivo adjunto: **GXX_P01.pdf** todos los integrantes del grupo. 
+- ✅ Estado: **Entregado**
 
 ---
 
