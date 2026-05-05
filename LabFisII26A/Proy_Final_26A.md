@@ -49,7 +49,7 @@ Los estudiantes deben utilizar el PC para elaborar una práctica del laboratorio
 - Los estudiantes deben dedicar al menos 20 horas al proyecto.
 
 ## Descripción:
-En este proyecto, trabajarán en grupos para  redactar la práctica de laboratorio sobre los fenómenos transitorios, carga y descarga de un capacitor. La redacción del proyecto debe incluir las siguientes actividades:
+En este proyecto, trabajarán en grupos para diseñar la práctica de laboratorio sobre los fenómenos transitorios, carga y descarga de un capacitor. La redacción del proyecto debe incluir las siguientes actividades:
 - Redactar el documento "Proyecto de Investigación", o guia de laboratorio, donde se especifican los objetivos, se plantea el problea a estudiar,  se describa el marco teórico y la metodología. 
 - Hoja de trabajo para la recolección de datos.
 - Los docuementos anteriores deben contener:
@@ -66,10 +66,10 @@ Con las herramientas del laboratorio [Simuladores Peth](https://phet.colorado.ed
 ## Entrega final: 
 El proyecto final debe incluir los siguientes documentos:
 1. [Formato Formulación Proyecto](https://docs.google.com/document/d/1G6OQlBPTgFA4_zgUAfb8EarNI16tC0mf/edit)
-2. Documento con el "Proyecto de Investigación" o guia de laboratorio en PDF
-3. Documento con la "Hoja de trabajo", o hoda de datos, en PDF
-4. Notebook  completo donde se compruebe que el experimento funciona con los datos sintéticos que obtuvieron en el simulador
-5. Notebokk plantilla como las que el profesor les entregó para cada práctica de laboratorio.
+2. Documento con el "Proyecto de Investigación" o guía de laboratorio en PDF.
+3. Documento con la "hoja de trabajo", o "hoja de datos" en PDF.
+4. Notebook completo donde se compruebe que el experimento funciona con los datos sintéticos que obtuvieron en el simulador.
+5. Notebook con una plantilla para que un hipótetico estudiante realice el análisis de datos del experimento.
 
 ### Evaluación:
 El proyecto final será evaluado en base a los siguientes criterios:
@@ -78,7 +78,7 @@ El proyecto final será evaluado en base a los siguientes criterios:
 - Calidad del informe "Proyecto de Investigación".
 
 ## Fecha de entrega: 
-Se debe presentar el proyecto final completo con la infografía en la fecha límite **22/5/26**
+Se debe presentar el proyecto final completo en la fecha límite **22/5/26**
 
 ## References
 
