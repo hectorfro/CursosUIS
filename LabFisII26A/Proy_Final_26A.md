@@ -63,67 +63,22 @@ En este proyecto, trabajarán en grupos para  redactar la práctica de laborator
 ## Herramienta para la simulacion del experimento: 
 Con las herramientas del laboratorio [Simuladores Peth](https://phet.colorado.edu/sims/html/circuit-construction-kit-ac/latest/circuit-construction-kit-ac_all.html) pueden realizar el experimento de manera virtual para definir los valores de los parámateros que se deben tomar en el desarrollo de la práctica. 
 
-## Informe final: 
+## Entrega final: 
 El proyecto final debe incluir los siguientes documentos:
-1. Informe final que documento que justifique el proyecto y explique cómo el pensamiento computacional se utilizó para la redacción de la práctica de laboratorio.
-2. [Formato Formulación Proyecto](https://docs.google.com/document/d/1G6OQlBPTgFA4_zgUAfb8EarNI16tC0mf/edit)
-3. Documento con el "Proyecto de Investigación" o guia de laboratorio.
-4. Documento con la "Hoja de trabajo".
-5. Documento con los resultados de la práctica de laboratorio.
-6. Notebook a utilizar en el análisis de datos.
+1. [Formato Formulación Proyecto](https://docs.google.com/document/d/1G6OQlBPTgFA4_zgUAfb8EarNI16tC0mf/edit)
+2. Documento con el "Proyecto de Investigación" o guia de laboratorio en PDF
+3. Documento con la "Hoja de trabajo", o hoda de datos, en PDF
+4. Notebook  completo donde se compruebe que el experimento funciona con los datos sintéticos que obtuvieron en el simulador
+5. Notebokk plantilla como las que el profesor les entregó para cada práctica de laboratorio.
 
 ### Evaluación:
 El proyecto final será evaluado en base a los siguientes criterios:
 - Creatividad de la elaboración de la práctica de laboratorio.
 - Eficiencia de los códigos de programación o de las herramientas seleccionadas para el tratamiento de datos.
-- Calidad del informe final.
-
-### Entrega:
-El proyecto final debe ser entregado en formato digital y la fecha límite de entrega será el **1/12/24**.
-
-### Etapas del proyecto:
-
-####  Etapa 1 - Propuesta y avance.
-Duración: 3 semanas
-
-1. Revisión bibliográfica
-2. Diseño del experimento: deben diseñar un experimento que permita recopilar los datos relevantes, puede ser, diseñar un diagrama de flujo de cómo debe desarrolarse el experimento de inicio a fin.
-3. Herramientas: deben considerar tanto el hardware (sensores, fuentes de alimentación, componentes electrónicos, cables) como el software (código Python), la adquisición y/o procesamiento de datos.
-4. Implementación de la adquisición de datos: deben escribir y probar las herramientas seleccionadas para adquirir datos del experimento. Esto puede incluir la medición de voltajes, corrientes y otros parámetros relevantes.
-
-Los equipos deben presentar su progreso, incluyendo el diseño del experimento y las herramientas a utilizar. Deben explicar cómo planean adquirir y  analizar los datos y la estructura del informe en $\LaTeX$. Deben agregar también el documento [Formato Formulación Proyecto](https://docs.google.com/document/d/1G6OQlBPTgFA4_zgUAfb8EarNI16tC0mf/edit) respectivamente llenado.
-
-El informe preliminar debe ser entregado en la fecha límite: **10/10/24**.
-
-#### Etapa 2 - Trabajo Definitivo.
-Duración: 3 semanas. 
-
-1. Montaje experimental: se debe mostrar cual es el montaje experimental propuesto con los pasos lógicos para luego tomar los datos.
-2. Adquisición de datos y análisis: se deben llevar a cabo el experimento para adquirir y analizar datos. Pueden utilizar bibliotecas como NumPy, Matplotlib y Pandas o aplicaciones desde el teléfono celular. 
-3. Elaboración del informe: los equipos deben redactar un informe técnico utilizando $\LaTeX$. Esto incluye la descripción del experimento, resultados, análisis de datos y conclusiones. Deben asegurarse de que el informe sea estéticamente agradable y profesional.
-4. Pensamiento computacional: explicación de cómo el pensamiento computacional se utilizó para reformular la práctica de laboratorio. Resultados de la práctica de laboratorio reformulada.
-5. Presentación final: Cada equipo presentará sus resultados ante el grupo, destacando la importancia de la modernización del laboratorio con Pensamiento Computacional.
-
-
-## Infografía:
-
-La infografía debe ser un resumen visual del proyecto final y debe incluir los siguientes elementos:
-
-- Título del proyecto
-- Objetivos del proyecto
-- Descripción de la práctica de laboratorio original
-- Descripción de la reformulación de la práctica de laboratorio
-- Descripción de cómo el pensamiento computacional se utilizó para automatizar la práctica de laboratorio
-- Resultados de la práctica de laboratorio reformulada
-
-La infografía será evaluada en base a los siguientes criterios:
-- Claridad
-- Concisión
-- Visualización
+- Calidad del informe "Proyecto de Investigación".
 
 ## Fecha de entrega: 
-Se debe presentar el proyecto final completo con la infografía en la fecha límite **1/12/24**
-
+Se debe presentar el proyecto final completo con la infografía en la fecha límite **22/5/26**
 
 ## References
 
